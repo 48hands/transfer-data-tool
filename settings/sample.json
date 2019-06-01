@@ -5,6 +5,6 @@
   },
   "output": {
     "tableName": "users2",
-    "loadColumns": ["*"]
+    "targetColumns": ["id as no", "name", "age"]
   }
 }
