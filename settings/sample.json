@@ -1,0 +1,10 @@
+{
+  "appName": "Sample App",
+  "input": {
+    "sqlQueryFilePath": "sql/sample.sql"
+  },
+  "output": {
+    "tableName": "users2",
+    "loadColumns": ["*"]
+  }
+}
